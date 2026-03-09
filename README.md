@@ -55,14 +55,75 @@ Use this skill when a user asks to:
 - connect tasks with learnings and reusable workflows
 - make overview pages easier to scan in hover previews
 
-## Screenshots
+## Screenshots walkthrough
 
-> Example screenshots from the Obsidian task-center workflow.
+Below is a visual walkthrough of the structure used in this skill.
+The goal is not just to show a folder layout, but to demonstrate how tasks, experience notes, and reusable skills connect into one maintainable workflow.
 
-![Screenshot 01](assets/screenshot-01.png)
-![Screenshot 02](assets/screenshot-02.png)
-![Screenshot 03](assets/screenshot-03.png)
-![Screenshot 04](assets/screenshot-04.png)
+### 1. Usage guide
+
+This page explains the rules of the task center: where tasks should go, when to create detail pages, and how finished work should be written back into experience / skill notes.
+
+![Usage Guide](assets/screenshot-01.png)
+
+### 2. Ongoing tasks
+
+This page is used for one-off or phase-based work that is still in progress.
+At the top, a compact summary table makes the page easy to scan in Obsidian hover preview.
+Each task can then link to its detail page, related experience notes, and related skill notes.
+
+![Ongoing Tasks](assets/screenshot-02.png)
+
+### 3. Task overview
+
+This is the main navigation page for the whole task system.
+Its top summary table gives a quick view of current task states, related knowledge areas, and the latest update time for each section.
+
+![Task Overview](assets/screenshot-03.png)
+
+### 4. Task overview hover preview
+
+This screenshot shows why the top-of-file summary table matters.
+When hovering over links in Obsidian, the first few lines become the preview content, so the overview page is designed to expose useful status information immediately.
+
+![Task Overview Hover Preview](assets/screenshot-04.png)
+
+### 5. Task detail pages
+
+Complex tasks should not stay as one-line entries forever.
+A detail page is used to track background, steps, risks, outputs, acceptance criteria, and post-task review.
+This makes long-running or multi-step work much easier to maintain.
+
+![Task Detail Page 1](assets/screenshot-05.png)
+![Task Detail Page 2](assets/screenshot-06.png)
+
+### 6. Experience overview
+
+The experience area stores lessons learned after tasks are completed.
+These notes focus on what actually happened, what went wrong, and what should be remembered next time.
+
+![Experience & Skill Summary](assets/screenshot-07.png)
+
+### 7. Skills overview
+
+The skills area stores reusable methods, SOPs, and stable workflows.
+Experience notes answer "what we learned"; skill notes answer "how to do this reliably next time".
+
+![Skills Overview](assets/screenshot-08.png)
+
+### 8. Skills in practice
+
+This screenshot shows how a concrete skill note can document usage rules, standard steps, and repeatable operating patterns.
+That turns one-off work into reusable operational knowledge.
+
+![Using Skills](assets/screenshot-09.png)
+
+### 9. Completed tasks
+
+Finished tasks are moved into the completed section instead of disappearing.
+That keeps the task system auditable, and allows each finished task to remain connected to the related experience / skill notes it produced.
+
+![Completed Tasks](assets/screenshot-10.png)
 
 ## Share / reuse
 
