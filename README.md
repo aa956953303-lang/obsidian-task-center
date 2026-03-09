@@ -55,6 +55,15 @@ Use this skill when a user asks to:
 - connect tasks with learnings and reusable workflows
 - make overview pages easier to scan in hover previews
 
+## Screenshots
+
+> Example screenshots from the Obsidian task-center workflow.
+
+![Screenshot 01](assets/screenshot-01.png)
+![Screenshot 02](assets/screenshot-02.png)
+![Screenshot 03](assets/screenshot-03.png)
+![Screenshot 04](assets/screenshot-04.png)
+
 ## Share / reuse
 
 If you want to share this skill with another OpenClaw setup, the minimum recommended package is:
